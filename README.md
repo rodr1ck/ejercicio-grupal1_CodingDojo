@@ -9,3 +9,9 @@ dillinger.io
 # Proyecto Grupal de React 1
 
 Proyecto realizado en la ayudantía del día 24 de Abril 2021
+
+
+# Cambio desde rama vicente
+
+Este cambio se hizo desde una rama llamada vicente.
+
