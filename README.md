@@ -1,5 +1,5 @@
 # Rodrigo's commit 
-
+## Rodrigo's merge Main 
 Proyecto colaborativo en React
 # Stefano Quiroz
 =================
