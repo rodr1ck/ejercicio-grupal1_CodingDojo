@@ -11,6 +11,9 @@ Make a change in your file and instantaneously see your updates!
 Open your favorite Terminal and run these commands.
 
 # Rodrigo's commit 
+## Rodrigo's merge Main 
+
+cambio pequeño por Rodrigo
 
 Proyecto colaborativo en React
 # Stefano Quiroz
